@@ -1,4 +1,4 @@
-﻿# CRAG-Ops: Self-Correcting Agentic RAG System
+# CRAG-Ops: Self-Correcting Agentic RAG System
 
 CRAG-Ops is a full-stack Corrective RAG application with a FastAPI backend, a React + Vite frontend, and a LangGraph-powered workflow that evaluates retrieval quality before generation. It supports PDF-grounded question answering and web-grounded general research mode.
 
